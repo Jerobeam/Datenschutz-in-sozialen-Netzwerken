@@ -162,7 +162,6 @@ _minted*
 # sympy
 *.sout
 *.sympy
-sympy-plots-for-*.tex/
 
 # pdfcomment
 *.upa
